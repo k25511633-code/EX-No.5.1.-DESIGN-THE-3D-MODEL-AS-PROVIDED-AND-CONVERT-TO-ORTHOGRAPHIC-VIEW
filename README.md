@@ -37,7 +37,8 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
-![Uploading Screenshot 2025-12-09 182017.png…]()
+<img width="986" height="737" alt="Screenshot 2025-12-09 182017" src="https://github.com/user-attachments/assets/e2f15e52-db24-45bb-8907-1734419ef5bd" />
+
 
 
 
